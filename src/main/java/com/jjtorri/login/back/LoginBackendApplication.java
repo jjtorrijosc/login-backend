@@ -9,4 +9,5 @@ public class LoginBackendApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(LoginBackendApplication.class, args);
 	}
+
 }
